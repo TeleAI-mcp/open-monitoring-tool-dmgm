@@ -1,2 +1,3 @@
-# open-monitoring-tool-dmgm
-Automated issue comment bot repository
+# Open Monitoring Tool Dmgm
+
+Automated issue comment bot repository.
